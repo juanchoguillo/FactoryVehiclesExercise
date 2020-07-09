@@ -1,0 +1,12 @@
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/bin/Debug/netcoreapp3.1/VehicleFactoryExercise.deps.json
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/bin/Debug/netcoreapp3.1/VehicleFactoryExercise.runtimeconfig.json
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/bin/Debug/netcoreapp3.1/VehicleFactoryExercise.runtimeconfig.dev.json
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/bin/Debug/netcoreapp3.1/VehicleFactoryExercise.dll
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/bin/Debug/netcoreapp3.1/VehicleFactoryExercise.pdb
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.csprojAssemblyReference.cache
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.AssemblyInfoInputs.cache
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.AssemblyInfo.cs
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.csproj.CoreCompileInputs.cache
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.dll
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.pdb
+/Users/juancardona/repos/VehicleFactoryExercise/VehicleFactoryExercise/obj/Debug/netcoreapp3.1/VehicleFactoryExercise.genruntimeconfig.cache

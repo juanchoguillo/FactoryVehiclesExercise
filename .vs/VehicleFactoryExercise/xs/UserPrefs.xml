@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3F310A63-B090-48C2-8182-D513CAC37B12}|Default">
+  <MonoDevelop.Ide.ItemProperties.VehicleFactoryExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VehicleFactoryExercise/NoOption.cs">
+    <Files>
+      <File FileName="VehicleFactoryExercise/Program.cs" Line="14" Column="1" />
+      <File FileName="VehicleFactoryExercise/IVehicle.cs" Line="6" Column="29" />
+      <File FileName="VehicleFactoryExercise/Car.cs" Line="12" Column="50" />
+      <File FileName="VehicleFactoryExercise/Motorcycle.cs" Line="12" Column="60" />
+      <File FileName="VehicleFactoryExercise/VehicleFactory.cs" Line="16" Column="43" />
+      <File FileName="VehicleFactoryExercise/NoOption.cs" Line="4" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VehicleFactoryExercise" expanded="True">
+            <Node name="VehicleFactoryExercise" expanded="True">
+              <Node name="NoOption.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
